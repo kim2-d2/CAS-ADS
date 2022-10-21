@@ -1,0 +1,83 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# Homework\n",
+    "\n",
+    "### Exercise 1\n",
+    "\n",
+    "1. Read the text in a multiline string from the *Haikus.txt* file.\n",
+    "2. Loop through the rows of the text. Use string methods or regular expressions to write a code, which returns those rows of the input text, which contain the string 'translated by'.\n",
+    "3. Out of the previous code create a function, which returns those rows of an input text `t`, which conain the string `s`.\n",
+    "4. (optional) Modify the function in such a way that instead of looking for one string `s`, you allow for an infinity of strings `s_1`,`s_2`,... that you are looking for. The function should return all the lines, that match any of the specified strings.\n",
+    "5. Create a dictionary containing the **title**, **translator** and **text** of each haitaku.\n",
+    "6. Write the titles of the haikus into a new text file *HaikuTitles.txt*."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "### Exercise 2"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "1. Import the data as a pandas dataframe from the file *'country_vaccinations.xls'*. \n",
+    "2. Print the dataframe. \n",
+    "3. Call the `head` function and the `describe` function of the dataframe. Call also the `dtypes` attribute of the dataframe. Understand how do they work and how should we interpret their output.\n",
+    "4. Select a country out of the ones present in the dataframe. Create a new CSV file and put there all the data concerning the chosen country."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "### Exercise 3 (if you would like to carry out the project at the end of the course)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Take a look at the data sets available \n",
+    "* on [kaggle.com](https://www.kaggle.com/), \n",
+    "* on [archive.ics.uci.edu/ml/datasets.php](https://archive.ics.uci.edu/ml/datasets.php) \n",
+    "\n",
+    "and on other sites. Choose one or two data set for your project."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "For questions, that will be discussed at the beginning of the next session, please use the [the linked Google Document](https://docs.google.com/document/d/1ZfF4BqaPKnjcqxlynT0qQ3cMa2KhS3vkGMejl28MZyM/edit?usp=sharing)."
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.6.10"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 4
+}
