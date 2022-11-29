@@ -14,3 +14,6 @@ Basic introduction on how to perform typical machine learning tasks with Python.
 - Clustering with K-means and Gaussian mixtures
 - Artificial Neural networks as general fitters, fully connected nets used to classify the fashion-MNIST dataset
 - Scikit-learn and clustering maps, Q&A
+
+## Project
+Train and  apply at least two models presented in the Module to dataset (Voting reports)
