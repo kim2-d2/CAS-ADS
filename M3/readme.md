@@ -16,4 +16,4 @@ Basic introduction on how to perform typical machine learning tasks with Python.
 - Scikit-learn and clustering maps, Q&A
 
 ## Project
-Train and  apply at least two models presented in the Module to dataset (Voting reports)
+Predict voting results in Swiss National Council based on Voting reports for year 2022.
