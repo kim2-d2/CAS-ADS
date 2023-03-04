@@ -12,6 +12,6 @@ In this module, we learn performing deep learning with TensorFlow.
 ## Project
 Predict movie reviews sentiment using deep learning
 
-Branch Base-model: Initial model (Kim)
-Branch RNN: RNN Model (Emilie)
-Branch Feature Engineering (Lisa)
+- Branch Base-model: Initial model (Kim)
+- Branch RNN: RNN Model (Emilie)
+- Branch Feature Engineering (Lisa)
