@@ -10,7 +10,7 @@ In this module, we learn performing deep learning with TensorFlow.
 
 
 ## Project
-Predict movie reviews sentiment using deep learning
+Predict movie reviews sentiment using deep learning. The code can be found in the branches:
 
 - Branch Base-model: Initial model (Kim)
 - Branch RNN: RNN Model (Emilie)
