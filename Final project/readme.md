@@ -13,10 +13,15 @@ Data preprocessing.ipynb
 ## Model
 
 CNN model.ipynb
-best_model8.h5
+
+Trained model used in the GUI application: best_model8.h5
 
 ## GUI application
 
 gui.py
 
 The emojis used for the mapping are in the folder emojis2
+
+## Report
+
+Vu Kim-Lan - Zucchinetti Emilie - CAS-ADS Final Project Report.pdf
