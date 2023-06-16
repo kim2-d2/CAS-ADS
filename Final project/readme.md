@@ -25,6 +25,8 @@ CNN model.ipynb
 
 We build a GUI application using Tkinter and OpenCV. The purpose of the application is to detect faces in a video stream from the webcam, predict the emotions displayed by the detected faces using our loaded CNN model, and map the predicted emotions to corresponding emoji images. 
 
+Videocapture_GUI.mp4 is a short videocapture of the GUI application running.
+
 - gui.py
 - Trained model used in the GUI application: best_model8.h5
 - emojis2: the emojis used for the mapping
